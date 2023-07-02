@@ -1,0 +1,33 @@
+body{
+    background-color: #fff152;
+}
+h1{
+    text-align: center;
+    font-family: Verdana, sans-serif;
+    font-weight: bold;
+}
+p{
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 300px;
+}
+ol{
+    
+}
+ol{
+    font-size:18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+li a{
+    font-size:18px ;
+    text-decoration: none;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a:hover{
+    text-decoration: underline;
+}
